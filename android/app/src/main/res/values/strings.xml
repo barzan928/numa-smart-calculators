@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">NUMA Smart Calculators</string>
+    <string name="title_activity_main">NUMA Smart Calculators</string>
+    <string name="package_name">com.numa.smartcalculators</string>
+    <string name="custom_url_scheme">com.numa.smartcalculators</string>
+</resources>

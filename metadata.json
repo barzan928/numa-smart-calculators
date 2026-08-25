@@ -1,0 +1,6 @@
+{
+  "name": "NUMA Smart Calculators",
+  "description": "Smart All-in-One Calculators & Financial Tools",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
